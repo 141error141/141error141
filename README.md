@@ -1,12 +1,4 @@
-<p>   👋 Hi, I am  <a href="https://github.com/antoniopelusi">@antoniopelusi</a></p>
-
-<p>   🎓 I am a Computer Science graduate at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
-
-<p>   🌱 Currently enrolled in the Master's Degree course in Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
-
-<p>   🕹️ Videogames enthusiast</p>
-
-<p>   🎸 Guitar player</p>
+### ⚙️ Backup account of [@antoniopelusi](https://github.com/antoniopelusi)
 
 <p align="right">
 <a href= "https://www.antoniopelusi.com"><img src="/resources/website.png"/></a>
